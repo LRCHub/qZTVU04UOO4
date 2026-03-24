@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SWIM",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-24T05:21:08.289381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Swim",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Swim_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Swim",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Swim_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Swim",
+      "artist": "Ambulance Ltd",
+      "has_synced": false,
+      "path": "select/03_Swim_Ambulance_Ltd.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SWIM",
+      "artist": "BROCKHAMPTON",
+      "has_synced": true,
+      "path": "select/04_SWIM_BROCKHAMPTON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SWIM",
+      "artist": "BROCKHAMPTON",
+      "has_synced": true,
+      "path": "select/05_SWIM_BROCKHAMPTON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sink Or Swim",
+      "artist": "Bad Lieutenant",
+      "has_synced": false,
+      "path": "select/06_Sink_Or_Swim_Bad_Lieutenant.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Boy Can't Swim",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/07_This_Boy_Can't_Swim_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sink Or Swim",
+      "artist": "Deer Tick",
+      "has_synced": true,
+      "path": "select/08_Sink_Or_Swim_Deer_Tick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Swim Free",
+      "artist": "Dawn Richard",
+      "has_synced": true,
+      "path": "select/09_Swim_Free_Dawn_Richard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swim Down",
+      "artist": "Thomas Newman",
+      "has_synced": false,
+      "path": "select/10_Swim_Down_Thomas_Newman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swim Good",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/11_Swim_Good_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SWIM",
+      "artist": "Holly Herndon",
+      "has_synced": false,
+      "path": "select/12_SWIM_Holly_Herndon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midnight Swim",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/13_Midnight_Swim_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Swim Seagull In the Sky",
+      "artist": "Novembre",
+      "has_synced": true,
+      "path": "select/14_Swim_Seagull_In_the_Sky_Novembre.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Swim",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/15_Swim_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Swim In The Light",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/16_Swim_In_The_Light_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Swim in the Light",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/17_Swim_in_the_Light_Kid_Cudi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SWIM",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_SWIM_BTS.txt"
+    }
+  ]
+}
